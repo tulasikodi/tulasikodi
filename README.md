@@ -1,5 +1,13 @@
-## Hi There👋 , Welcome to my Github Portfolio ✨
-### Hi, I'm **Tulasi**! I’m a passionate data analyst with experience in Microsoft Excel ,**SQL**, **Python**, **Power BI**, and **data visualization**.
+## Welcome to my Github Portfolio 😊
+## Hi👋, I'm **Tulasi**! 
+### I’m a passionate **Data Analyst** and **Tech Enthusiast**  and  I recently graduated with a **Bachelor of Technology in Computer Science**, and I'm excited to leverage my skills in data analysis and visualization to solve real-world problems.
+
+
+## 🚀 Skills
+- **Programming Languages**: Python, SQL
+- **Data Analysis Tools**: Power BI, Excel
+- **Machine Learning**: Familiar with predictive modeling and data cleaning , data Visualization
+- **Web Development**:  knowledge of HTML, CSS, and Django
 ## Check out some of my projects below! 💼
 
 <!--
