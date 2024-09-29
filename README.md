@@ -13,8 +13,7 @@ When I'm not analyzing data, you can find me exploring new technologies, reading
  # PROJECT-1
  
   ### Customer Churn Analysis and Prediction Dashboard Using SQL, Power BI, and Machine Learning
-  [To see my work,just click here](path/to/file)
-
+  [To see my work,just click here](Customer_Churn_Analysis_and_Prediction_README.md)
   
   
 
