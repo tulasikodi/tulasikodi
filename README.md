@@ -1,6 +1,9 @@
 ## Welcome to my Github Portfolio 😊
 ## Hi👋, I'm **Tulasi**! 
 ### I’m a passionate **Data Analyst** and **Tech Enthusiast**  and  I recently graduated with a **Bachelor of Technology in Computer Science**, and I'm excited to leverage my skills in data analysis and visualization to solve real-world problems.
+I have a keen interest in uncovering insights from data and using analytics to drive decision-making. 
+When I'm not analyzing data, you can find me exploring new technologies, reading about the latest trends in data analytics , or working on personal projects that challenge my skills and creativity.
+
 
 
 ## 🚀 Skills
