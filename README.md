@@ -13,6 +13,12 @@ When I'm not analyzing data, you can find me exploring new technologies, reading
 - **Web Development**:  knowledge of HTML, CSS, and Django
 ## Check out some of my projects below! 💼
 
+## 📫 Get in Touch
+Feel free to reach out:
+- **Email**: [tulasikodi5@gmail.com](mailto:tulasikodi5@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tulasi-kodi](https://www.linkedin.com/in/tulasi-kodi-aa18a61b7/)
+
+Thanks for visiting my profile!
 <!--
 **tulasikodi/tulasikodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
