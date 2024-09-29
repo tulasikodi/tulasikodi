@@ -1,5 +1,5 @@
 ## Hi There👋 , Welcome to my Github Portfolio ✨
-## Hi, I'm **Tulasi**! I’m a passionate data analyst with experience in Microsoft Excel ,**SQL**, **Python**, **Power BI**, and **data visualization**.
+### Hi, I'm **Tulasi**! I’m a passionate data analyst with experience in Microsoft Excel ,**SQL**, **Python**, **Power BI**, and **data visualization**.
 ## Check out some of my projects below! 💼
 
 <!--
