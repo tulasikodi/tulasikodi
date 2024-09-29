@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi There👋 , Welcome to my Github Portfolio ✨
+## Hi, I'm **Tulasi**! I’m a passionate data analyst with experience in **SQL**, **Python**, **Power BI**, and **data visualization**.
+## Check out some of my projects below! 💼
 
 <!--
 **tulasikodi/tulasikodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
