@@ -7,7 +7,7 @@ Telecom offers various mobile and internet services and aims to improve customer
 As a data analyst, I will identify key factors contributing to customer  churn to provide insights for enhancing retention strategies and to reduce churn . This project thoroughly analyzes and uncover critical insghts and that will improve customer retention.
 
 
-#Data Model View
+# Data Model View
 
 ![image](https://github.com/user-attachments/assets/07160fcf-2c48-46a4-b015-997a849590c0)
 
@@ -15,5 +15,12 @@ As a data analyst, I will identify key factors contributing to customer  churn t
 ## Executive Summary
 
 ![image](https://github.com/user-attachments/assets/0d3730e1-c627-4412-9176-51067c5c828b)
+
+![image](https://github.com/user-attachments/assets/66403ed8-b052-4f06-9520-db228c316d7c)
+![image](https://github.com/user-attachments/assets/7e8e6e7d-6221-4738-9399-076bb275fce3)
+
+
+
+
 
 
