@@ -10,10 +10,23 @@ When I'm not analyzing data, you can find me exploring new technologies, reading
 - **Web Development**:  knowledge of HTML, CSS, and Django
   ## Check out some of my projects below! 💼
 
+## INTERNSHIP PROJECT 1
+
+[ To see my work , just click here](https://github.com/tulasikodi/EMPLOYEE-BURNOUT-ANALYSIS-PROJECT)
+
+
  # PROJECT-1
  
   ### Customer Churn Analysis and Prediction Dashboard Using SQL, Power BI, and Machine Learning
   [To see my work,just click here](Customer_Churn_Analysis_and_Prediction_README.md)
+
+
+ # PROJECT-1
+ 
+  ### Customer Churn Analysis and Prediction Dashboard Using SQL, Power BI, and Machine Learning
+  [To see my work,just click here](Customer_Churn_Analysis_and_Prediction_README.md)
+
+  
   
   
 
