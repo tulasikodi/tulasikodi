@@ -11,8 +11,13 @@ When I'm not analyzing data, you can find me exploring new technologies, reading
   ## Check out some of my projects below! 💼
 
 ## INTERNSHIP PROJECT 1
-
+Ibm Edunet Foundation
+Employee Burnout Analysis and Prediction
 [ To see my work , just click here](https://github.com/tulasikodi/EMPLOYEE-BURNOUT-ANALYSIS-PROJECT)
+
+## INTERNSHIP PROJECT 2
+Medical Inventory Optimization
+[ To see my work , just click here](https://github.com/tulasikodi/Medical-Inventory-Optimization)
 
 
  # PROJECT-1
