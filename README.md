@@ -61,7 +61,23 @@ Feature Engineering
 
  # PROJECT-2
  
-  ### Customer-Feedback-and-Product-Performance-Analysis using Excel and Power BI
+### Customer-Feedback-and-Product-Performance-Analysis using Excel and Power BI
+
+#### Objective:
+Designed an interactive Power BI dashboard to analyze 23,490 customer reviews, providing actionable insights for a women’s clothing e-commerce business.
+
+#### Key Contributions:
+Cleaned and processed data for analysis.
+
+Performed sentiment analysis to classify reviews.
+
+Created visuals to track product performance and customer preferences.
+
+Highlighted insights like fitting issues in jackets and top-performing categories like Intimates and Trends.
+
+#### Skills Used: Excel, Power BI, Data Cleaning, Sentiment Analysis, Visualization.
+
+
   [To see my work,just click here](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/README.md)
 
   
