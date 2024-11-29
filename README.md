@@ -54,17 +54,15 @@ Feature Engineering
 
 [ To see my work , just click here](https://github.com/tulasikodi/Medical-Inventory-Optimization)
 
-
  # PROJECT-1
  
   ### Customer Churn Analysis and Prediction Dashboard Using SQL, Power BI, and Machine Learning
   [To see my work,just click here](Customer_Churn_Analysis_and_Prediction_README.md)
 
-
- # PROJECT-1
+ # PROJECT-2
  
-  ### Customer Churn Analysis and Prediction Dashboard Using SQL, Power BI, and Machine Learning
-  [To see my work,just click here](Customer_Churn_Analysis_and_Prediction_README.md)
+  ### Customer-Feedback-and-Product-Performance-Analysis
+  [To see my work,just click here](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/README.md)
 
   
   
