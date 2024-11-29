@@ -61,7 +61,7 @@ Feature Engineering
 
  # PROJECT-2
  
-  ### Customer-Feedback-and-Product-Performance-Analysis
+  ### Customer-Feedback-and-Product-Performance-Analysis using Excel and Power BI
   [To see my work,just click here](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/README.md)
 
   
