@@ -89,7 +89,7 @@ Designed an interactive Power BI dashboard to analyze 23,490 customer reviews, p
 
 ## 📫 Get in Touch
 Feel free to reach out:
-- **Email**: [tulasikodi5@gmail.com](mailto:tulasikodi7@gmail.com)
+- **Email**: [tulasikodi7@gmail.com](mailto:tulasikodi7@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tulasi-kodi](https://www.linkedin.com/in/tulasi-kodi-aa18a61b7/)
 
 Thanks for visiting my profile!
