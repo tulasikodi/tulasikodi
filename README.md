@@ -58,7 +58,17 @@ actionable recommendations to improve workplace well-being.
 - Developed predictive models to forecast churn and support proactive decision-making.
   ### Skills Used - EXCEL, Power BI , Dax , Python
 
- # PROJECT-2
+ # PROJECT-2 
+ [To see my work,just click here](Customer_Churn_Analysis_and_Prediction_README.md)
+ 
+  ### Blinkit Sales Analysis Dashboard Using SQL, Power BI, Excel
+ - Analyzed Blinkit's sales data to uncover trends, evaluate performance, and provide actionable insights.
+ - This project highlights my expertise in data analysis, visualization, and storytelling using Power BI, SQL, and Excel.
+ - Key outcomes include identifying top-performing outlets, driving recommendations to improve sales and customer satisfaction
+  ### Skills Used - EXCEL, Power BI , Dax , Python
+
+
+ # PROJECT-3
  [To see my work,just click here](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/README.md) 
  
 ### Customer-Feedback-and-Product-Performance-Analysis using Excel and Power BI
