@@ -67,8 +67,16 @@ actionable recommendations to improve workplace well-being.
  - Key outcomes include identifying top-performing outlets, driving recommendations to improve sales and customer satisfaction
   ### Skills Used - EXCEL, Power BI , Dax , Python
 
+ # PROJECT-5
+ [To see my work,just click here](https://github.com/tulasikodi/Sales_Forecasting/edit/main/README.md) 
+ 
+- Sales Performance Analysis & Forecasting (2011-2016)
+- Analyzed historical sales data to identify trends, seasonal patterns, and business insights. Built a time-series forecasting model to predict future sales and 
+   support strategic decision-making.
+- Key findings include peak sales periods, a recurring July dip, and actionable recommendations for marketing and inventory management.
+### Skills USed- Excel, Power BI , Dax , SQL
 
- # PROJECT-3
+ # PROJECT-4
  [To see my work,just click here](https://github.com/tulasikodi/Customer-Feedback-and-Product-Performance-Analysis/blob/main/README.md) 
  
 ### Customer-Feedback-and-Product-Performance-Analysis using Excel and Power BI
